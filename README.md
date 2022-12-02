@@ -1,3 +1,3 @@
 # Scripts
-Scripts for maintenance of computers
+Scripts for maintenance of computers.
 Recomeded execute as administrator 
